@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Mark</string>
+    <string name="txt_caption">Mark and Blue</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Currently a student at MCC. Looking to acquire his associate in software engineering.</string>
+</resources>
